@@ -1,0 +1,7 @@
+This file contains the info of the video from where I am learning python.
+
+Video link: https://www.youtube.com/watch?v=qwAFL1597eM&t=653s
+Channel name: freeCodeCamp.org
+              11.5m subscribers
+
+Watching from: manish9366801212@gmail.com
